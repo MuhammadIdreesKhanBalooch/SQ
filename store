@@ -1,0 +1,7 @@
+A slideshow which contains three images along with left and right buttons. There are also 3 buttons on bottom to naviagate to any image directy.
+The homepage shows mobile phones and laptops.
+on clicking any item, a new page opens which shows product details and an "Add to cart" button. on clicking add to cart button, an alert says"item added".
+there are three categories of items available. On clicking each button, shows its respective items to buy.
+A next and previous button  is also available which works correctly.
+there is no next button when the list ends up.
+the footer shows some information about website and some contact information about the website.
